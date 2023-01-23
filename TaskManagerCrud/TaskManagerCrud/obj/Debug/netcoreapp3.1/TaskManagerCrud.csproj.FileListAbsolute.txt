@@ -1,0 +1,78 @@
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.AssemblyReference.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.AssemblyInfoInputs.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.AssemblyInfo.cs
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.CoreCompileInputs.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.exe
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.deps.json
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.runtimeconfig.json
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.runtimeconfig.dev.json
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.pdb
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\staticwebassets\TaskManagerCrud.StaticWebAssets.Manifest.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\staticwebassets\TaskManagerCrud.StaticWebAssets.xml
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskManagerCrud.styles.css
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.RazorTargetAssemblyInfo.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.CopyComplete
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.pdb
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.genruntimeconfig.cache
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mansi.saxena\source\repos\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.exe
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.deps.json
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.runtimeconfig.json
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.runtimeconfig.dev.json
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\TaskManagerCrud.pdb
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.AssemblyReference.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.AssemblyInfoInputs.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.AssemblyInfo.cs
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.CoreCompileInputs.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\staticwebassets\TaskManagerCrud.StaticWebAssets.Manifest.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\staticwebassets\TaskManagerCrud.StaticWebAssets.xml
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\scopedcss\bundle\TaskManagerCrud.styles.css
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.RazorTargetAssemblyInfo.cache
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.csproj.CopyComplete
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.dll
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.pdb
+C:\Users\Mansi.saxena\OneDrive - Bhavna Software India Pvt.Ltd\Desktop\onboard\TaskManagerCrud\TaskManagerCrud\obj\Debug\netcoreapp3.1\TaskManagerCrud.genruntimeconfig.cache
